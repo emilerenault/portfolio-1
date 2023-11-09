@@ -1,0 +1,29 @@
+body {
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 58px 118px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.bold {
+    font-weight: 700px;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 24px;
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 108px;
+}
